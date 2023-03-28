@@ -20,8 +20,7 @@ const pinData = [
      'İTÜ Bilim Merkezi', 
      "Mimar Sinan Güzel Sanatlar Üniversitesi Tophane-İ Amire Kültür Ve Sanat Merkezi",
     "Beyoğlu Bilim ve Sanat Merkezi",
-  "Kadıköy Bilim ve Sanat Merkezi"
-  ]
+  "Kadıköy Bilim ve Sanat Merkezi"]
   }
 ];
 
