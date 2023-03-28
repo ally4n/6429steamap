@@ -10,12 +10,18 @@ const pinData = [
   {
     id: 'izmir',
     label: 'İzmir',
-    items: ['Karşıyaka Bilim Müzesi', 'Arkas Sanat Merkezi', 'Sancar Maruflu Bilim Merkezi', 'Ege Üniversitesi Tabiat Tarihi Müzesi', '']
+    items: ['Karşıyaka Bilim Müzesi', 'Arkas Sanat Merkezi', 'Sancar Maruflu Bilim Merkezi', 'Ege Üniversitesi Tabiat Tarihi Müzesi']
   },
   {
     id: 'istanbul',
     label: 'İstanbul',
-    items: ['Hagia Sophia', 'Blue Mosque', 'Grand Bazaar']
+    items: ['Üsküdar Bilim Merkezi',
+     'İstanbul Bilim ve Sanat Merkezi', 
+     'İTÜ Bilim Merkezi', 
+     "Mimar Sinan Güzel Sanatlar Üniversitesi Tophane-İ Amire Kültür Ve Sanat Merkezi",
+    "Beyoğlu Bilim ve Sanat Merkezi",
+  "Kadıköy Bilim ve Sanat Merkezi",
+  ""]
   }
 ];
 
