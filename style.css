@@ -24,7 +24,7 @@
 
 /* Style for the Izmir pin */
 #izmir {
-  top: 250px;
+  top: 350px;
   left: 60px;
 }
 
@@ -34,8 +34,8 @@
 
 /* Style for the Istanbul pin */
 #istanbul {
-  top: 70px;
-  left: 170px;
+  top: 85px;
+  left: 178px;
 }
 
 #istanbul:hover {
